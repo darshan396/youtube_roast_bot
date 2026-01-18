@@ -1,3 +1,3 @@
-# medic
+# Roastify
 
-A new Flutter project.
+### An AI bot which roasts you on the basis of your youtube subscription list
